@@ -1,5 +1,14 @@
-<p align="center"><img src="HZLOGO.jpg" width="128" title="HZ-LOGO"></p>
-<h1 align="center">VillageFever</h1>
+<div align="center">
+
+<img src="HZLOGO.jpg" width="128" title="HZ-LOGO">
+
+<h1>VillageFever</h1>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/dariusztmt/HypeZone-VillageFever)
+![GitHub](https://img.shields.io/github/license/dariusztmt/HypeZone-VillageFever)
+![GitHub issues](https://img.shields.io/github/issues-raw/dariusztmt/HypeZone-VillageFever)
+
+</div>
 
 ## HypeZone-VillageFever for 1.19
 VillageFever is an independent Minecraft modification with awesome village professions, buildings, logical mechanics and many more mind blowing things. 
