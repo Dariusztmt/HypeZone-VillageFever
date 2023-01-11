@@ -2,7 +2,7 @@
 
 <img src="HZLOGO.jpg" width="180" title="HZ-LOGO">
 
-<h1>VillageFever</h1>
+<h1>HypeZone-VillageFever</h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dariusztmt/HypeZone-VillageFever)
 ![GitHub](https://img.shields.io/github/license/dariusztmt/HypeZone-VillageFever)
