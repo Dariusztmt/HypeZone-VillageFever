@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="HZLOGO.jpg" width="128" title="HZ-LOGO">
+<img src="HZLOGO.jpg" width="180" title="HZ-LOGO">
 
 <h1>VillageFever</h1>
 
