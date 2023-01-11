@@ -4,9 +4,9 @@
 
 <h1>VillageFever</h1>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/dariusztmt/HypeZone-VillageFever)
-![GitHub](https://img.shields.io/github/license/dariusztmt/HypeZone-VillageFever)
-![GitHub issues](https://img.shields.io/github/issues-raw/dariusztmt/HypeZone-VillageFever)
+<a href="https://github.com/Dariusztmt/HypeZone-VillageFever">![GitHub last commit](https://img.shields.io/github/last-commit/dariusztmt/HypeZone-VillageFever)</a>
+<a href="https://github.com/Dariusztmt/HypeZone-VillageFever/blob/master/LICENSE">![GitHub](https://img.shields.io/github/license/dariusztmt/HypeZone-VillageFever)</a>
+<a href="https://github.com/Dariusztmt/HypeZone-VillageFever/issues">![GitHub issues](https://img.shields.io/github/issues-raw/dariusztmt/HypeZone-VillageFever)</a>
 
 </div>
 
